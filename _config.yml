@@ -5,5 +5,4 @@ plugins:
 title: Synapse Open Dataset
 description: A dataset for warehouse robots
 
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: "true"
