@@ -3,6 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Synapse Open Dataset
-description: A dataset for warehouse robots
-
-show_downloads: "true"
+description: A dataset for warehouse autonomous mobile robots
